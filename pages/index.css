@@ -107,7 +107,7 @@ background-size: cover;
     gap: 100px;
 }
 
-.recipes__video-caption {
+.recipes__videos-caption {
     display: flex;
     justify-content: space-between;
 }
