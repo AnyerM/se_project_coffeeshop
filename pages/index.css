@@ -4,13 +4,15 @@ body {
 
 h1, h2, h3 {
     font-weight: 700;
+    font-family: 'Inter', Arial, sans-serif;
 }
 
 p {
     font-weight: 400; 
+    font-family: 'Noto Serif', 'Times New Roman', serif;
 }
 
-.italic-notoserif {
+.italic {
     font-family: 'Noto Serif', 'Times New Roman', serif;
     font-weight: 400;
     font-style: italic; 
