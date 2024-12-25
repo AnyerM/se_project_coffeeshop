@@ -1,5 +1,5 @@
 body {
-    font-family: 'Inter', sans-serif; 
+    font-family: 'Inter', Arial, sans-serif;
 }
 
 h1, h2, h3 {
@@ -11,7 +11,7 @@ p {
 }
 
 .italic-notoserif {
-    font-family: 'Noto Serif', serif; 
+    font-family: 'Noto Serif', 'Times New Roman', serif;
     font-weight: 400;
     font-style: italic; 
 }
@@ -21,7 +21,7 @@ p {
     min-width: 1100px;
     max-width: 1600px;
     margin: auto;
-    font-family: Inter, Arial, sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
 font-size: 16px;
 line-height: 20px;
 }
@@ -45,7 +45,7 @@ background-size: cover;
 
 .header__title {
     margin: 183px 0 0;
-    font-family: "Inter", "Arial", sans-serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     font-weight: 500;
     font-size: 60px;
     line-height: 72px;
@@ -60,13 +60,15 @@ background-size: cover;
 }
 
 .header__description {
-    font-family: "Noto Serif", "Times New Roman", serif;
+    font-family: 'Noto Serif', 'Times New Roman', serif;
     font-size: 20px;
     line-height: 30px;
     margin: 28px 0 0;
     min-width: 683px;
     font-style: italic;
+    font-weight: 400;
 }
+  
 
 .header__footer {
     margin-top: auto;
