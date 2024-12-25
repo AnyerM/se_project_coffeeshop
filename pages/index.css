@@ -1,23 +1,4 @@
-body {
-    font-family: 'Inter', Arial, sans-serif;
-}
-
-h1, h2, h3 {
-    font-weight: 700;
-    font-family: 'Inter', Arial, sans-serif;
-}
-
-p {
-    font-weight: 400; 
-    font-family: 'Noto Serif', 'Times New Roman', serif;
-}
-
-.italic {
-    font-family: 'Noto Serif', 'Times New Roman', serif;
-    font-weight: 400;
-    font-style: italic; 
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Noto+Serif:ital,wght@1,400&display=swap');
 
 .page {
     min-width: 1100px;
@@ -26,6 +7,7 @@ p {
     font-family: 'Inter', Arial, sans-serif;
 font-size: 16px;
 line-height: 20px;
+font-weight: 700;
 }
 
 .header {
