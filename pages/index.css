@@ -1,3 +1,22 @@
+body {
+    font-family: 'Inter', sans-serif; 
+}
+
+h1, h2, h3 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400; 
+}
+
+.italic-notoserif {
+    font-family: 'Noto Serif', serif; 
+    font-weight: 400;
+    font-style: italic; 
+}
+
+
 .page {
     min-width: 1100px;
     max-width: 1600px;
@@ -32,6 +51,7 @@ background-size: cover;
     line-height: 72px;
     letter-spacing: -0.6px;
     max-width: 729px;
+    font-style: normal;
 }
 
 .header__span-accent {
@@ -45,6 +65,7 @@ background-size: cover;
     line-height: 30px;
     margin: 28px 0 0;
     min-width: 683px;
+    font-style: italic;
 }
 
 .header__footer {
