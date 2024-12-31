@@ -10,6 +10,7 @@ line-height: 30px;
 .form__fieldset {
     margin: 0;
     padding: 0;
+    border: none;
 }
 
 .form__input {
