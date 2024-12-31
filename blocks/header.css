@@ -43,7 +43,7 @@ flex-direction: column;
     font-size: 20px;
     line-height: 30px;
     margin: 28px 0 0;
-    min-width: 683px;
+    max-width: 683px;
     font-style: italic;
     font-weight: 400;
 }
